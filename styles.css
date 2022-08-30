@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+    font-family: 'IBM Plex Mono', monospace;
+font-family: 'Lato', sans-serif;
+}
+.navigation{
+ background-color:#fca5a5;
+ padding: 16px;
+ text-align: center;
+}
+main{
+    height: 60vh;
+   text-align: center;
+}
+.txt-area{
+    width: 50%;
+    display: block;
+    height: 10vh;
+    margin: 1rem auto;
+    padding: 1rem;
+}
+
+.btn{
+    margin-left: 1rem;
+    background-color: #fca5a5;
+    padding: 1rem;
+    margin-right: 38vw;
+  padding: 1rem 2rem;
+}
+
+.output-header{
+    font-size: larger;
+    margin-right: 32vw;
+  padding: 1rem 2rem;
+  color: #cbd5e1
+  ;
+}
+
+.output{
+    border: solid 1px black;
+    width: 50%;
+    margin: 1rem auto;
+    height: 10vh;
+    padding: 1rem;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 20vh;
+    background-color: #fca5a5;
+}
+
+.footer-header{
+    margin-top: 1rem;
+}
+     
