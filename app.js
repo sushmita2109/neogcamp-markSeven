@@ -17,7 +17,7 @@ function clickHandler() {
     var inputText = inputtxt.value;
     
         fetch(getTranslationUrl(inputText))
-            .then(resonse => response.json())
+            .then(response => response.json())
             .then(json => {
                 var translatedText = json.contents.translated;
                 outputDiv.innerHTML = translatedText;
