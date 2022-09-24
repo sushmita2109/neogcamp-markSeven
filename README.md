@@ -6,3 +6,5 @@ In this web application following concepts were used:
 1. HTML
 1. CSS
 1. Javascript
+
+[Link to visit the application](https://neogcamp-markseven.netlify.app/)
